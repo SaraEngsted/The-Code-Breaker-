@@ -26,6 +26,7 @@ public class TheCodeBreaker {
     public static void main(String[] args) {
 
         //Encoder
+
         String BrammingEncoded = numberCypherEncoder("bramming");
         System.out.println(BrammingEncoded);
 
